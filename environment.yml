@@ -6,6 +6,7 @@ channels:
 dependencies:
   - brotli
   - brotli-bin
+  - jax
   - bzip2
   - ca-certificates
   - certifi
