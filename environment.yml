@@ -4,17 +4,29 @@ channels:
   - omnia
   - defaults
 dependencies:
+  - appnope
+  - backcall
+  - backports
+  - backports.functools_lru_cache
   - brotli
   - brotli-bin
-  - jax
   - bzip2
   - ca-certificates
   - certifi
   - cycler
+  - debugpy
+  - decorator
+  - entrypoints
   - fonttools
   - freetype
+  - ipykernel
+  - ipython
+  - jax
   - jbig
+  - jedi
   - jpeg
+  - jupyter_client
+  - jupyter_core
   - kiwisolver
   - lcms2
   - lerc
@@ -31,6 +43,7 @@ dependencies:
   - liblapack
   - libopenblas
   - libpng
+  - libsodium
   - libtiff
   - libwebp-base
   - libzlib
@@ -38,19 +51,28 @@ dependencies:
   - lz4-c
   - matplotlib
   - matplotlib-base
+  - matplotlib-inline
   - munkres
   - ncurses
+  - nest-asyncio
   - numpy
   - olefile
   - openjpeg
   - openssl
   - packaging
+  - parso
+  - pexpect
+  - pickleshare
   - pillow
   - pip
+  - prompt-toolkit
+  - ptyprocess
+  - pygments
   - pyparsing
   - python
   - python-dateutil
   - python_abi
+  - pyzmq
   - readline
   - scipy
   - setuptools
@@ -58,9 +80,12 @@ dependencies:
   - sqlite
   - tk
   - tornado
+  - traitlets
   - tzdata
+  - wcwidth
   - wheel
   - xz
+  - zeromq
   - zlib
   - zstd
 prefix: /opt/miniconda3/envs/black_box_miniproject_env
