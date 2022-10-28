@@ -7,6 +7,7 @@ dependencies:
   - appnope
   - backcall
   - backports
+  - GPy 
   - backports.functools_lru_cache
   - brotli
   - brotli-bin
