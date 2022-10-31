@@ -6,3 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trsav/black_box_miniproject/HEAD)
 
 
+<a>
+<img src=binder_code.png title="OptimalPSE" align="center" height="250" />
+</a>
